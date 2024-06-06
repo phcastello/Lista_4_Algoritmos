@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int sal, nsal;
+    float sal, nsal;
     char plano;
 
 
