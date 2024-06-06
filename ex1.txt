@@ -1,0 +1,9 @@
+Uma variável é um espaço de armazenamento na memória que pode conter
+dados que podem ser modificados durante a execução do programa.
+
+Uma constante é um espaço de armazenamento na memória cujo valor é definido uma 
+vez e não pode ser alterado durante a execução do programa, Como o numero pi.
+
+
+
+
