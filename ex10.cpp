@@ -25,7 +25,6 @@ int main(){
         default:
             break;
     }
-    cout << nsal <<endl;
     cout << "Novo salario: " << nsal <<endl;
 
     return 0;
